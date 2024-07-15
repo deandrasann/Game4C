@@ -1,0 +1,4 @@
+repository "GamePungutSampah@riogabrieladitya@cloud"
+  path "/"
+    br "/main"
+    co "/main"

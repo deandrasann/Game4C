@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Plastik
+  - Kertas
+  - Daun
+  - InteractiveObject
+  - StandKertas
+  - StandKertasLuar
+  - StandPlastik
+  - StandPlastikLuar
+  - StandDaunLuar
+  - drag
+  - DropArea
+  - Kapal1
+  - Kapal2
+  - Kapal3
+  - Kapal4
+  - Kapal5
+  - Kapal6
+  - Interact
+  - Topi1
+  - Topi2
+  - Topi3
+  - Topi4
+  - Topi5
+  - Topi6
+  - Topi7
+  - Topi8
+  - Topi9
+  - Topi10
+  - Topi11
+  - Topi12
+  - Topi13
+  - Topi14
+  - Topi15
+  - Topi16
+  - Topi17
+  - Topi18
+  - Audio
+  - Ranting1
+  - Ranting2
+  - Ranting3
+  - Ranting4
+  - Ranting5
+  - Ranting6
+  - Daun1
+  - Daun2
+  - Daun3
+  - Daun4
+  - Daun5
+  - Daun6
+  - Kelopak1
+  - Kelopak2
+  - Kelopak3
+  - Kelopak4
+  - Kelopak5
+  - Inti
+  - Tangkai
+  - DaunKanan
+  - DaunKiri
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Interact
+  - Kertas
+  - Daun
+  - Plastik
+  - Interact1
+  - StandKertas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
